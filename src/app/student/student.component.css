@@ -1,0 +1,6 @@
+.box{
+    background: rgba(240, 55, 4, 0.103);
+    border: 1px solid rgba(216, 39, 77, 0.212);
+    padding: 20px 50px;
+    text-align: center
+  }
